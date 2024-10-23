@@ -10,5 +10,5 @@ We fine-tune **Llama3.1-8B-Instruct** and **Qwen2-7B-Instruct** on BlocksWorld a
 
 - **[Llama-3.1-8B-Instruct-blocksworld-SFT](https://huggingface.co/hsaest/Llama-3.1-8B-Instruct-blocksworld-SFT)**
 - **[Llama-3.1-8B-Instruct-travelplanner-SFT](https://huggingface.co/hsaest/Llama-3.1-8B-Instruct-travelplanner-SFT)**
-- **[Qwen2-7B-Instruct-blocksworld-SFT](https://huggingface.co/hsaest/Qwen2-7B-Instruct-blocksworld-SFT))**
-- **[Qwen2-7B-Instruct-travelplanner-SFT](https://huggingface.co/hsaest/Qwen2-7B-Instruct-travelplanner-SFT))**
+- **[Qwen2-7B-Instruct-blocksworld-SFT](https://huggingface.co/hsaest/Qwen2-7B-Instruct-blocksworld-SFT)**
+- **[Qwen2-7B-Instruct-travelplanner-SFT](https://huggingface.co/hsaest/Qwen2-7B-Instruct-travelplanner-SFT)**
