@@ -1,6 +1,6 @@
 # Agent-Planning-Analysis
 
-The code and data will be fully released in two weeks. Stay tuned!
+The code and data will be fully released soon. Stay tuned!
 
 
 
@@ -15,7 +15,7 @@ We fine-tune **Llama3.1-8B-Instruct** and **Qwen2-7B-Instruct** on BlocksWorld a
 
 ## Citation Information
 
-If our paper or related resources prove valuable to your research, we kindly ask for citation. 
+If our paper or related resources prove valuable to your research, we kindly ask for a citation. 
 
 <a href="https://github.com/hsaest/Agent-Planning-Analysis"><img src="https://img.shields.io/github/stars/hsaest/Agent-Planning-Analysis?style=social&label=Agent-Planning-Analysis" alt="GitHub Stars"></a>
 
