@@ -1,8 +1,29 @@
 # Agent-Planning-Analysis
 
-The code and data will be fully released soon. Stay tuned!
+## Environments
 
+```.sh
+conda create -n agent-planning python==3.9.20
+conda activate agent-planning
+pip install -r requirements.txt
+cd code/captum
+pip install -e .
 
+```
+
+## Environments
+
+Compute attribution scores.
+
+```.sh
+cd code/AttrScoreCalc
+# for blocksworld
+python blocksWorld.py 
+# for travelplanner
+python travelPlanner.py 
+```
+
+If you want to analyze the obtained attribution scores, just open and running two jupyter notebooks in code/analysis.
 
 ## Model Release
 
