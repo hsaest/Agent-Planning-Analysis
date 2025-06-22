@@ -41,10 +41,18 @@ If our paper or related resources prove valuable to your research, we kindly ask
 <a href="https://github.com/hsaest/Agent-Planning-Analysis"><img src="https://img.shields.io/github/stars/hsaest/Agent-Planning-Analysis?style=social&label=Agent-Planning-Analysis" alt="GitHub Stars"></a>
 
 ```
-@article{xie2024revealing,
-  title={Revealing the Barriers of Language Agents in Planning},
-  author={Xie, Jian and Zhang, Kexun and Chen, Jiangjie and Yuan, Siyu and Zhang, Kai and Zhang, Yikai and Li, Lei and Xiao, Yanghua},
-  journal={arXiv preprint arXiv:2410.12409},
-  year={2024}
+@inproceedings{xie-etal-2025-revealing,
+    title = "Revealing the Barriers of Language Agents in Planning",
+    author = "Xie, Jian  and
+      Zhang, Kexun  and
+      Chen, Jiangjie  and
+      Yuan, Siyu  and
+      Zhang, Kai  and
+      Zhang, Yikai  and
+      Li, Lei  and
+      Xiao, Yanghua",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    year = "2025",
+    url = "https://aclanthology.org/2025.naacl-long.93/",
 }
 ```
